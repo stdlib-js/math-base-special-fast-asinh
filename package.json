@@ -1,0 +1,40 @@
+{
+  "name": "@stdlib/math-base-special-fast-asinh",
+  "version": "0.0.0",
+  "description": "Compute the hyperbolic arcsine of a number.",
+  "license": "Apache-2.0",
+  "type": "module",
+  "main": "./index.mjs",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/math-base-special-fast-asinh.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdfastmath",
+    "mathematics",
+    "math",
+    "fastmath",
+    "fast",
+    "math.asinh",
+    "asinh",
+    "sine",
+    "arcsine",
+    "hyperbolic",
+    "inverse",
+    "trig",
+    "trigonometry",
+    "radians",
+    "angle",
+    "polyfill",
+    "ponyfill"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
