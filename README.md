@@ -42,6 +42,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import asinh from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-fast-asinh@deno/mod.js';
+```
+The previous example will load the latest bundled code from the deno branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/math-base-special-fast-asinh/tags). For example,
+
+```javascript
 import asinh from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-fast-asinh@v0.3.0-deno/mod.js';
 ```
 
@@ -108,7 +113,7 @@ v = asinh( Infinity );
 
 ```javascript
 import linspace from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-linspace@deno/mod.js';
-import asinh from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-fast-asinh@v0.3.0-deno/mod.js';
+import asinh from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-fast-asinh@deno/mod.js';
 
 var x = linspace( -5.0, 5.0, 103 );
 
