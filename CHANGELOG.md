@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-30)
+## Unreleased (2025-11-09)
 
 <section class="commits">
 
@@ -12,9 +12,10 @@
 
 <details>
 
+-   [`a9fb57e`](https://github.com/stdlib-js/stdlib/commit/a9fb57ec46973d10d247dfbe68d0b11a24970688) - **docs:** update descriptions _(by Philipp Burckhardt)_
 -   [`24e19f9`](https://github.com/stdlib-js/stdlib/commit/24e19f9d7fd8a648489afe4ba29940a4bfbeab6f) - **chore:** minor clean-up _(by Philipp Burckhardt)_
--   [`f1d9b23`](https://github.com/stdlib-js/stdlib/commit/f1d9b232a15c53531ab7110d2f9ccf4ff6db9a5e) - **bench:** update random value generation [(#6645)](https://github.com/stdlib-js/stdlib/pull/6645) _(by Harsh)_
--   [`5982554`](https://github.com/stdlib-js/stdlib/commit/59825542a6f81a71eb16ce2007aac9c12f351938) - **docs:** replace manual `for` loop in examples [(#6644)](https://github.com/stdlib-js/stdlib/pull/6644) _(by Harsh)_
+-   [`f1d9b23`](https://github.com/stdlib-js/stdlib/commit/f1d9b232a15c53531ab7110d2f9ccf4ff6db9a5e) - **bench:** update random value generation [(#6645)](https://github.com/stdlib-js/stdlib/pull/6645) _(by Harsh Yadav)_
+-   [`5982554`](https://github.com/stdlib-js/stdlib/commit/59825542a6f81a71eb16ce2007aac9c12f351938) - **docs:** replace manual `for` loop in examples [(#6644)](https://github.com/stdlib-js/stdlib/pull/6644) _(by Harsh Yadav)_
 -   [`630ddb7`](https://github.com/stdlib-js/stdlib/commit/630ddb777824b5f6e501fda6dadf4ce41dccb964) - **test:** replace equal with strictEqual _(by Karan Anand)_
 -   [`a1e230f`](https://github.com/stdlib-js/stdlib/commit/a1e230f29297caa89880e9c194c615a0400fb7bc) - **chore:** clean up cppcheck-suppress comments _(by Karan Anand)_
 -   [`6a0d6b8`](https://github.com/stdlib-js/stdlib/commit/6a0d6b861f8e2079a501ca4e46a9175440eedb46) - **style:** update to use tabs for indentation _(by Philipp Burckhardt)_
@@ -34,7 +35,7 @@
 A total of 4 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
--   Harsh
+-   Harsh Yadav
 -   Karan Anand
 -   Philipp Burckhardt
 
